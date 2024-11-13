@@ -1,0 +1,14 @@
+{
+  "name": "Fiara",
+  "displayName": "Fiara",
+  "version": "1.0.0",
+  "android": {
+    "package": "com.fiara.app"
+  },
+  "ios": {
+    "bundleIdentifier": "com.fiara.app"
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ]
+}
